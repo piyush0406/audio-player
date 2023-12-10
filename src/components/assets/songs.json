@@ -1,0 +1,37 @@
+{ "songs_list":[
+    {
+        "name":"Love the way you lie",
+        "source":"Spotify",
+        "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/Love_the_Way_You_Lie_cover.png",
+        "date":"01/12/23",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+        "name":"Cold/Mess",
+        "source":"Spotify",
+        "cover":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/59/4f/41/594f4117-78b6-0699-340f-84bda46cbe6b/075679801531.jpg/1200x1200bb.jpg",
+        "date":"13/02/23",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+        "name":"Paint the town red",
+        "source":"Youtube",
+        "date":"21/10/23",
+        "cover":"https://cdns-images.dzcdn.net/images/cover/ad4bfc2a374741218dd6498d04e323cc/500x500.jpg",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+        "name":"Calm Down",
+        "source":"Youtube",
+        "date":"05/03/23",
+        "cover":"https://upload.wikimedia.org/wikipedia/en/b/b1/Rema_-_Calm_Down.png",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+        "name":"Going Bad",
+        "source":"Soundcloud",
+        "date":"15/07/23",
+        "cover":"https://i.pinimg.com/originals/97/3e/8a/973e8a312b54c13177fb22a565389bf0.jpg",
+        "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    }
+]}
